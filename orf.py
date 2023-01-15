@@ -51,4 +51,4 @@ def complementary_dna(dna_string):
     for string in set(fragments):
         print(translate(string))
 
-        #Rosalind shows that I haven't solved it I don't know why it says "500-Bad code" without even download the data set and if I download it I put the answer but it's like if it doesn't read it and the time keeps going on untill it's time up
+        
